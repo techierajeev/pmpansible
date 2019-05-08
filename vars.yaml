@@ -1,1 +1,2 @@
-account_id: 307 
+- accountid: ["307" , "306"]
+- abc: abc.results[1].stdout | trim 
